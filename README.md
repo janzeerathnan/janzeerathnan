@@ -1,4 +1,4 @@
-<h1 align="center">Hi Developers 👋, I'm Janzeer Mohamed Athnan</h1>
+<h1 align="center">Hi there 👋, I'm Janzeer Mohamed Athnan</h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -82,46 +82,65 @@
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Employee Management System](https://github.com/janzeerathnan/ht_system-backend.git) | 🧑‍💼 Biometric Attendance + Laravel + React | Laravel, React |
-| Vizra – Report Card System | 📊 Modular Dashboards, JWT Auth | MERN Stack |
-| SecureScan – Security Scanner | 🛡️ Flask app for HTTP/Security checks + PDF report | Flask, Python, MySQL |
-| AI Resume Generator | 🤖 Resume/Cover Letter using OpenAI | MERN + OpenAI API |
+| 🚀 Project | 🔎 Description | 🧪 Tech Stack |
+|-----------|----------------|----------------|
+| [Employee Management System](https://github.com/janzeerathnan/ht_system-backend.git) | Biometric attendance, real-time team work | React, Laravel |
+| Vizra – Report Card System | Performance analytics, dashboards, role-based access | MERN Stack |
+| SecureScan | Vulnerability scanning, email PDF reports | Python, Flask, MySQL |
+| AI Resume Generator | AI-generated CVs with live preview and export | MERN + OpenAI API |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janzeerathnan&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janzeerathnan&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=janzeerathnan&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janzeerathnan&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janzeerathnan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janzeerathnan&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌱 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janzeerathnan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: [janzeerathnan01@gmail.com](mailto:janzeerathnan01@gmail.com)
-- 🌐 Website: [janzeer-athnan.vercel.app](https://janzeer-athnan.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/janzeerathnan](https://www.linkedin.com/in/janzeerathnan/)
-- 📱 Phone: 0766845867
+- 📧 Email: [janzeerathnan01@gmail.com](mailto:janzeerathnan01@gmail.com)  
+- 🌐 Website: [janzeer-athnan.vercel.app](https://janzeer-athnan.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/janzeerathnan](https://www.linkedin.com/in/janzeerathnan/)  
+- 📱 Phone: 0766845867  
 
 ---
 
-> “Building with passion, growing with purpose.” 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janzeerathnan&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
+---
+
+> _“Building with passion, growing with purpose.”_ 🚀
 
 <!--
 **janzeerathnan/janzeerathnan** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
