@@ -1,5 +1,5 @@
 <h1 align="center">Hi Developers 👋, I'm Janzeer Mohamed Athnan</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
+<h3 align="center">Full Stack Developer | Project Manager | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://janzeer-athnan.vercel.app/" target="_blank">
